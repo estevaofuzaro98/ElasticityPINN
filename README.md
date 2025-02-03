@@ -54,15 +54,15 @@ If you use **ElasticityPINN** in your research, please cite the following public
 
 **ElasticityPINN** is released under the MIT license. See the LICENSE file for details. All new contributions must be made under the MIT license.
 
-<img src="logo/mit_license_red.png" width="10%"> 
+<img src="logo/mit_license_red.png" width="15%"> 
 
 ### Institutional support
 
-<img src="logo/logo_feis.png" width="10%"> &nbsp; &nbsp; <img src="logo/logolab.png" width="15%">
+<img src="logo/logo_feis.png" width="15%"> &nbsp; &nbsp; <img src="logo/logolab.png" width="20%">
 
 ### Funding
 
-<img src="logo/fapespLogo.png" width="20%"> &nbsp; &nbsp; <img src="logo/capes.png" width="8%">
+<img src="logo/fapespLogo.png" width="25%"> &nbsp; &nbsp; <img src="logo/capes.png" width="12%">
 
 ### Contact
 For any questions or further information, please contact the authors at:
