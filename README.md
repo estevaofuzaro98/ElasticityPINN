@@ -64,7 +64,9 @@ If you use **ElasticityPINN** in your research, please cite the following public
 
 ### Funding
 
-<img src="logo/fapespLogo.png" width="25%"> &nbsp; &nbsp; <img src="logo/capes.png" width="12%">
+<img src="logo/fapespLogo.png" width="25%">  
+*Funded by FAPESP - São Paulo Research Foundation*  
+Grant Number: 2022/16156-9 &nbsp; &nbsp; <img src="logo/capes.png" width="12%">
 
 ### Contact
 For any questions or further information, please contact the authors at:
