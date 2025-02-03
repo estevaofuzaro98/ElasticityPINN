@@ -62,7 +62,7 @@ If you use **ElasticityPINN** in your research, please cite the following public
 
 ### Funding
 
-<img src="logo/fapesp.png" width="20%"> &nbsp; &nbsp; <img src="logo/capes.png" width="10%">
+<img src="logo/fapespLogo.png" width="20%"> &nbsp; &nbsp; <img src="logo/capes.png" width="10%">
 
 ### Contact
 For any questions or further information, please contact the authors at:
