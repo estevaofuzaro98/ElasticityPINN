@@ -1,6 +1,6 @@
 ## ElasticityPINN
 
-<img src="imgs/GraphicalAbstractFig.png" width="25%">
+<img src="imgs/GraphicalAbstractFig.png" width="80%">
 
 **ElasticityPINN** is a ...
 
