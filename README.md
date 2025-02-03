@@ -1,5 +1,7 @@
 ## ElasticityPINN
 
+<img src="imgs/GraphicalAbstractFig.pdf" width="25%">
+
 **ElasticityPINN** is a ...
 
 ### Table of Contents
