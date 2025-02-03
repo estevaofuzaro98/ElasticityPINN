@@ -64,7 +64,7 @@ If you use **ElasticityPINN** in your research, please cite the following public
 
 ### Funding
 
-<img src="logo/fapespLogo.png" width="25%"> &nbsp; &nbsp; <img src="logo/capes.png" width="12%">
+<img src="logo/sponsors.png" width="25%">
 - São Paulo Research Foundation (FAPESP), grant number 2022/16156-9
 - National Council for Scientific and Technological Development (CNPq/Brazil), grant number 309467/2023-3
 - National Institute of Science and Technology, Smart Structures in Engineering (INCT-EIE)
