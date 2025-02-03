@@ -58,7 +58,7 @@ If you use **ElasticityPINN** in your research, please cite the following public
 
 ### Institutional support
 
-<img src="logo/logo_feis.png" width="20%">
+<img src="logo/logo_feis.png" width="10%"> &nbsp; &nbsp; <img src="logo/logolab.png" width="10%">
 
 ### Funding
 
