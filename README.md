@@ -41,6 +41,7 @@ The main routine was coded in `Python Notebook` and provides a step-by-step impl
 If you use **ElasticityPINN** in your research, please cite the following publication:
 - E. F. Almeida and S. da Silva, *Some Regards on using Physics-Informed Neural Networks for Solving Two-Dimensional Elasticity Problems*, **Journal of the Brazilian Society of Mechanical Sciences and Engineering**, 2025 [DOI: 10.1007/s40430-025-06047-1](https://link.springer.com/article/10.1007/s40430-025-06047-1)
 
+<!--
 ```
 @article{Almeida2025,
    author       = {E. F. Almeida and S. Silva},
@@ -52,6 +53,7 @@ If you use **ElasticityPINN** in your research, please cite the following public
    note         = {10.000/doi2bedefined},
 }
 ```
+-->
 
 ### License
 
