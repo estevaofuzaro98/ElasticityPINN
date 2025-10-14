@@ -16,11 +16,11 @@ This repository serves as a comprehensive tutorial on introducing PINNs to solve
 - [Contact](#contact)
 
 ### Overview
-**ElasticityPINN** is a computational framework developed to solve two-dimensional elasticity problems using **Physics-Informed Neural Networks (PINNs)**. Instead of relying on conventional meshing techniques from the Finite Element Method (FEM), this approach embeds the governing equations and boundary conditions directly into the neural network’s loss function. The repository contains a reproducible notebook that demonstrate this methodology through a classical benchmark case — **triangular plate under a vertical distributed load**, where the PINN accurately predicts the stress field without using any analytical or FEM data for training. This case serves as an introductory example of how PINNs can generate physics-consistent stress distributions in solid mechanics problems.  
+[**ElasticityPINN**](ElasticityPINN.ipynb) is a computational framework developed to solve two-dimensional elasticity problems using **Physics-Informed Neural Networks (PINNs)**. Instead of relying on conventional meshing techniques from the Finite Element Method (FEM), this approach embeds the governing equations and boundary conditions directly into the neural network’s loss function. The repository contains a reproducible notebook that demonstrate this methodology through a classical benchmark case — **triangular plate under a vertical distributed load**, where the PINN accurately predicts the stress field without using any analytical or FEM data for training. This case serves as an introductory example of how PINNs can generate physics-consistent stress distributions in solid mechanics problems.  
 
 
 ### Usage
-To get started with **ElasticityPINN**, follow these steps:
+To get started with [**ElasticityPINN**](ElasticityPINN.ipynb), follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/estevaofuzaro98/ElasticityPINN.git
@@ -38,7 +38,7 @@ The main routine was coded in `Python Notebook` and provides a step-by-step impl
 - Samuel da Silva (FEIS/UNESP)
 
 ### Citing ElasticityPINN
-If you use **ElasticityPINN** in your research, please cite the following publication:
+If you use [**ElasticityPINN**](ElasticityPINN.ipynb) in your research, please cite the following publication:
 - E. F. Almeida and S. da Silva, *Some Regards on using Physics-Informed Neural Networks for Solving Two-Dimensional Elasticity Problems*, **Journal of the Brazilian Society of Mechanical Sciences and Engineering**, 2025 [DOI: 10.1007/s40430-025-06047-1](https://link.springer.com/article/10.1007/s40430-025-06047-1)
 
 <!--
@@ -57,7 +57,7 @@ If you use **ElasticityPINN** in your research, please cite the following public
 
 ### License
 
-**ElasticityPINN** is distributed under the MIT license, allowing unrestricted academic and commercial use with proper attribution. See the LICENSE file for details. All new contributions must be made under the MIT license.
+[**ElasticityPINN**](ElasticityPINN.ipynb) is distributed under the MIT license, allowing unrestricted academic and commercial use with proper attribution. See the LICENSE file for details. All new contributions must be made under the MIT license.
 
 <img src="logo/mit_license_red.png" width="15%"> 
 
