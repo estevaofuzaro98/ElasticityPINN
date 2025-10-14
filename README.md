@@ -2,7 +2,7 @@
 
 <img src="imgs/GraphicalAbstractFig.png" width="80%">
 
-**ElasticityPINN** is a ...
+This repository serves as a comprehensive tutorial on introducing PINNs to solve elasticity problems. It demonstrates how PINNs can predict stress distribution solely based on the physical laws of elasticity theory.
 
 ### Table of Contents
 - [Overview](#overview)
@@ -16,7 +16,10 @@
 - [Contact](#contact)
 
 ### Overview
-**ElasticityPINN** was developed to ...
+**ElasticityPINN** is a computational framework developed to solve two-dimensional elasticity problems using **Physics-Informed Neural Networks (PINNs)**.  
+Instead of relying on conventional meshing techniques from the Finite Element Method (FEM), this approach embeds the governing equations and boundary conditions directly into the neural network’s loss function.  
+The repository contains a reproducible notebook that demonstrate this methodology through a classical benchmark case — **triangular plate under a vertical distributed load**, where the PINN accurately predicts the stress field without using any analytical or FEM data for training. This case serves as an introductory example of how PINNs can generate physics-consistent stress distributions in solid mechanics problems.  
+
 
 ### Usage
 To get started with **ElasticityPINN**, follow these steps:
@@ -30,15 +33,15 @@ To get started with **ElasticityPINN**, follow these steps:
    ```
 
 ### Documentation
-The routines in **ElasticityPINN** are well-commented to explain their functionality. The main routine was coded in `Python Notebook` within useful comments along the cells.......
+The main routine was coded in `Python Notebook` and provides a step-by-step implementation of the PINN formulation, including the definition of the governing equations, boundary conditions, and loss function components. Each section is thoroughly commented to ensure reproducibility and facilitate adaptation to new elasticity problems.
 
 ### Authors
-- Estevão Fuzaro de Almeida
-- Samuel da Silva
+- Estevão Fuzaro de Almeida (FEIS/UNESP)
+- Samuel da Silva (FEIS/UNESP)
 
 ### Citing ElasticityPINN
 If you use **ElasticityPINN** in your research, please cite the following publication:
-- *E. F. Almeida, S. Silva, Some Regards on using Physics-Informed Neural Networks for Solving Two-Dimensional Elasticity Problems, Journal of the Brazilian Society of Mechanical Sciences and Engineering, 2025 http://dx.doi.org/10.000/doi2bedefined*
+- E. F. Almeida and S. da Silva, *Some Regards on using Physics-Informed Neural Networks for Solving Two-Dimensional Elasticity Problems*, **Journal of the Brazilian Society of Mechanical Sciences and Engineering**, 2025 http://dx.doi.org/10.000/doi2bedefined
 
 ```
 @article{Almeida2025,
@@ -54,7 +57,8 @@ If you use **ElasticityPINN** in your research, please cite the following public
 
 ### License
 
-**ElasticityPINN** is released under the MIT license. See the LICENSE file for details. All new contributions must be made under the MIT license.
+**ElasticityPINN** is distributed under the MIT license, allowing unrestricted academic and commercial use with proper attribution. See the LICENSE file for details.
+All new contributions must be made under the MIT license.
 
 <img src="logo/mit_license_red.png" width="15%"> 
 
@@ -63,6 +67,8 @@ If you use **ElasticityPINN** in your research, please cite the following public
 <img src="logo/logo_feis.png" width="15%"> &nbsp; &nbsp; <img src="logo/logolab.png" width="20%">
 
 ### Funding
+
+The development of **ElasticityPINN** was supported by research agencies through the following grants:
 
 <img src="logo/sponsors.png" width="60%">
 
@@ -75,7 +81,7 @@ If you use **ElasticityPINN** in your research, please cite the following public
       -  Minas Gerais State Research Support Foundation (FAPEMIG)
 
 ### Contact
-For any questions or further information, please contact the authors at:
+For questions, collaborations, or further information, please contact:
 
-- Estevão Fuzaro de Almeida: estevao.fuzaro@unesp.br
-- Samuel da Silva: samuel.silva13@unesp.br
+- **Estevão Fuzaro de Almeida** — [estevao.fuzaro@unesp.br](mailto:estevao.fuzaro@unesp.br)  
+- **Prof. Samuel da Silva** — [samuel.silva13@unesp.br](mailto:samuel.silva13@unesp.br)
