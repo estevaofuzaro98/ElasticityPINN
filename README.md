@@ -16,9 +16,7 @@ This repository serves as a comprehensive tutorial on introducing PINNs to solve
 - [Contact](#contact)
 
 ### Overview
-**ElasticityPINN** is a computational framework developed to solve two-dimensional elasticity problems using **Physics-Informed Neural Networks (PINNs)**.  
-Instead of relying on conventional meshing techniques from the Finite Element Method (FEM), this approach embeds the governing equations and boundary conditions directly into the neural network’s loss function.  
-The repository contains a reproducible notebook that demonstrate this methodology through a classical benchmark case — **triangular plate under a vertical distributed load**, where the PINN accurately predicts the stress field without using any analytical or FEM data for training. This case serves as an introductory example of how PINNs can generate physics-consistent stress distributions in solid mechanics problems.  
+**ElasticityPINN** is a computational framework developed to solve two-dimensional elasticity problems using **Physics-Informed Neural Networks (PINNs)**. Instead of relying on conventional meshing techniques from the Finite Element Method (FEM), this approach embeds the governing equations and boundary conditions directly into the neural network’s loss function. The repository contains a reproducible notebook that demonstrate this methodology through a classical benchmark case — **triangular plate under a vertical distributed load**, where the PINN accurately predicts the stress field without using any analytical or FEM data for training. This case serves as an introductory example of how PINNs can generate physics-consistent stress distributions in solid mechanics problems.  
 
 
 ### Usage
@@ -57,20 +55,19 @@ If you use **ElasticityPINN** in your research, please cite the following public
 
 ### License
 
-**ElasticityPINN** is distributed under the MIT license, allowing unrestricted academic and commercial use with proper attribution. See the LICENSE file for details.
-All new contributions must be made under the MIT license.
+**ElasticityPINN** is distributed under the MIT license, allowing unrestricted academic and commercial use with proper attribution. See the LICENSE file for details. All new contributions must be made under the MIT license.
 
 <img src="logo/mit_license_red.png" width="15%"> 
 
 ### Institutional support
+
+This research was conducted within the Department of Mechanical Engineering, School of Engineering of Ilha Solteira (FEIS/UNESP).
 
 <img src="logo/logo_feis.png" width="15%"> &nbsp; &nbsp; <img src="logo/logolab.png" width="20%">
 
 ### Funding
 
 The development of **ElasticityPINN** was supported by research agencies through the following grants:
-
-<img src="logo/sponsors.png" width="60%">
 
 - São Paulo Research Foundation (FAPESP), grant number 2022/16156-9
 - National Council for Scientific and Technological Development (CNPq/Brazil), grant number 309467/2023-3
@@ -80,7 +77,10 @@ The development of **ElasticityPINN** was supported by research agencies through
       -  Coordination for the Improvement of Higher Education Personnel (CAPES)
       -  Minas Gerais State Research Support Foundation (FAPEMIG)
 
+<img src="logo/sponsors.png" width="60%">
+
 ### Contact
+
 For questions, collaborations, or further information, please contact:
 
 - **Estevão Fuzaro de Almeida** — [estevao.fuzaro@unesp.br](mailto:estevao.fuzaro@unesp.br)  
