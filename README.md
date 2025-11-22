@@ -16,7 +16,8 @@ This repository serves as a comprehensive tutorial on introducing PINNs to solve
 - [Contact](#contact)
 
 ### Overview
-[**ElasticityPINN**](ElasticityPINN.ipynb) is a computational framework developed to solve two-dimensional elasticity problems using **Physics-Informed Neural Networks (PINNs)**. Instead of relying on conventional meshing techniques from the Finite Element Method (FEM), this approach embeds the governing equations and boundary conditions directly into the neural network’s loss function. The repository contains a reproducible notebook that demonstrate this methodology through a classical benchmark case — **triangular plate under a vertical distributed load**, where the PINN accurately predicts the stress field without using any analytical or FEM data for training. This case serves as an introductory example of how PINNs can generate physics-consistent stress distributions in solid mechanics problems.  
+> [!NOTE]
+> [**ElasticityPINN**](ElasticityPINN.ipynb) is a computational framework developed to solve two-dimensional elasticity problems using **Physics-Informed Neural Networks (PINNs)**. Instead of relying on conventional meshing techniques from the Finite Element Method (FEM), this approach embeds the governing equations and boundary conditions directly into the neural network’s loss function. The repository contains a reproducible notebook that demonstrate this methodology through a classical benchmark case — **triangular plate under a vertical distributed load**, where the PINN accurately predicts the stress field without using any analytical or FEM data for training. This case serves as an introductory example of how PINNs can generate physics-consistent stress distributions in solid mechanics problems.  
 
 
 ### Usage
