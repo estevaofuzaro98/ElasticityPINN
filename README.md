@@ -44,22 +44,22 @@ If you use [**ElasticityPINN**](ElasticityPINN.ipynb) in your research, please c
 
 ```
 @article{FuzarodeAlmeida2025,
-   author       = {Fuzaro de Almeida,  Estevão and da Silva,  Samuel},
-   title        = {Some Regards on using Physics-Informed Neural Networks for Solving Two-Dimensional Elasticity Problems},
-   year         = {2025},
-   journal      = {Journal of the Brazilian Society of Mechanical Sciences and Engineering},
-   note         = {10.1007/s40430-025-06047-1},
+   author  = {Fuzaro de Almeida,  Estevão and da Silva,  Samuel},
+   title   = {Some Regards on using Physics-Informed Neural Networks for Solving Two-Dimensional Elasticity Problems},
+   year    = {2025},
+   journal = {Journal of the Brazilian Society of Mechanical Sciences and Engineering},
+   DOI     = {10.1007/s40430-025-06047-1},
 }
 
 @inproceedings{FuzarodeAlmeida2023,
-  series = {COB2023},
-  title = {PHYSICS-INFORMED NEURAL NETWORKS FOR SOLVING ELASTICITY PROBLEMS},
-  url = {http://dx.doi.org/10.26678/ABCM.COBEM2023.COB2023-0310},
-  DOI = {10.26678/abcm.cobem2023.cob2023-0310},
-  booktitle = {Proceedings of the 27th International Congress of Mechanical Engineering},
-  publisher = {ABCM},
-  author = {Fuzaro de Almeida,  Estevão and da Silva,  Samuel and Barbosa da Cunha Junior,  Americo},
-  year = {2025},
+  series     = {COB2023},
+  title      = {PHYSICS-INFORMED NEURAL NETWORKS FOR SOLVING ELASTICITY PROBLEMS},
+  url        = {http://dx.doi.org/10.26678/ABCM.COBEM2023.COB2023-0310},
+  DOI        = {10.26678/abcm.cobem2023.cob2023-0310},
+  booktitle  = {Proceedings of the 27th International Congress of Mechanical Engineering},
+  publisher  = {ABCM},
+  author     = {Fuzaro de Almeida,  Estevão and da Silva,  Samuel and Barbosa da Cunha Junior,  Americo},
+  year       = {2025},
   collection = {COB2023}
 }
 ```
