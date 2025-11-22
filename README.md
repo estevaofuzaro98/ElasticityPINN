@@ -38,8 +38,9 @@ The main routine was coded in `Python Notebook` and provides a step-by-step impl
 - Samuel da Silva (FEIS/UNESP)
 
 ### Citing ElasticityPINN
-If you use [**ElasticityPINN**](ElasticityPINN.ipynb) in your research, please cite the following publication:
+If you use [**ElasticityPINN**](ElasticityPINN.ipynb) in your research, please cite the following publications:
 - E. F. Almeida and S. da Silva, *Some Regards on using Physics-Informed Neural Networks for Solving Two-Dimensional Elasticity Problems*, **Journal of the Brazilian Society of Mechanical Sciences and Engineering**, 2025 [DOI: 10.1007/s40430-025-06047-1](https://link.springer.com/article/10.1007/s40430-025-06047-1)
+- E. F. Almeida, S. da Silva and A. Cunha Jr. *Physics-Informed Neural Networks for Solving Elasticity Problems*, in: **27th International Congress on Mechanical Engineering (COBEM 2023)**, 2023 [DOI: 10.26678/ABCM.COBEM2023.COB2023-0310](https://doi.org/10.26678/ABCM.COBEM2023.COB2023-0310)
 
 <!--
 ```
@@ -51,6 +52,18 @@ If you use [**ElasticityPINN**](ElasticityPINN.ipynb) in your research, please c
    volume.      = {XX},
    pages        = {XXXXX},
    note         = {10.000/doi2bedefined},
+}
+
+@inproceedings{FuzarodeAlmeida2025,
+  series = {COB2023},
+  title = {PHYSICS-INFORMED NEURAL NETWORKS FOR SOLVING ELASTICITY PROBLEMS},
+  url = {http://dx.doi.org/10.26678/ABCM.COBEM2023.COB2023-0310},
+  DOI = {10.26678/abcm.cobem2023.cob2023-0310},
+  booktitle = {Proceedings of the 27th International Congress of Mechanical Engineering},
+  publisher = {ABCM},
+  author = {Fuzaro de Almeida,  Estevão and da Silva,  Samuel and Barbosa da Cunha Junior,  Americo},
+  year = {2025},
+  collection = {COB2023}
 }
 ```
 -->
