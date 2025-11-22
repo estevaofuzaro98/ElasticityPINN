@@ -43,17 +43,15 @@ If you use [**ElasticityPINN**](ElasticityPINN.ipynb) in your research, please c
 - E. F. Almeida, S. da Silva and A. Cunha Jr, *Physics-Informed Neural Networks for Solving Elasticity Problems*, in: **27th International Congress on Mechanical Engineering (COBEM 2023)**, 2023 [DOI: 10.26678/ABCM.COBEM2023.COB2023-0310](https://doi.org/10.26678/ABCM.COBEM2023.COB2023-0310)
 
 ```
-@article{Almeida2025,
-   author       = {E. F. Almeida and S. Silva},
+@article{FuzarodeAlmeida2025,
+   author       = {Fuzaro de Almeida,  Estevão and da Silva,  Samuel},
    title        = {Some Regards on using Physics-Informed Neural Networks for Solving Two-Dimensional Elasticity Problems},
    year         = {2025},
    journal      = {Journal of the Brazilian Society of Mechanical Sciences and Engineering},
-   volume.      = {XX},
-   pages        = {XXXXX},
-   note         = {10.000/doi2bedefined},
+   note         = {10.1007/s40430-025-06047-1},
 }
 
-@inproceedings{FuzarodeAlmeida2025,
+@inproceedings{FuzarodeAlmeida2023,
   series = {COB2023},
   title = {PHYSICS-INFORMED NEURAL NETWORKS FOR SOLVING ELASTICITY PROBLEMS},
   url = {http://dx.doi.org/10.26678/ABCM.COBEM2023.COB2023-0310},
