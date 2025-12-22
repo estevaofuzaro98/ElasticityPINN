@@ -47,11 +47,17 @@ The main routine was coded in `Python Notebook` and provides a step-by-step impl
 >   
 > ```
 > @article{FuzarodeAlmeida2025,
->    author  = {Fuzaro de Almeida,  Estevão and da Silva,  Samuel},
->    title   = {Some Regards on using Physics-Informed Neural Networks for Solving Two-Dimensional Elasticity Problems},
->    year    = {2025},
->    journal = {Journal of the Brazilian Society of Mechanical Sciences and Engineering},
->    DOI     = {10.1007/s40430-025-06047-1},
+>   title = {Some regards on using physics-informed neural networks for solving two-dimensional elasticity problems},
+>   volume = {48},
+>   ISSN = {1806-3691},
+>   url = {http://dx.doi.org/10.1007/s40430-025-06047-1},
+>   DOI = {10.1007/s40430-025-06047-1},
+>   number = {1},
+>   journal = {Journal of the Brazilian Society of Mechanical Sciences and Engineering},
+>   publisher = {Springer Science and Business Media LLC},
+>   author = {de Almeida,  Estevão and da Silva,  Samuel},
+>   year = {2025},
+>   month = dec 
 > }
 > 
 > @inproceedings{FuzarodeAlmeida2023,
