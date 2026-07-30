@@ -6,7 +6,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10.13-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.10.0-fe7625?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![Star on GitHub](https://img.shields.io/badge/⭐Star_on_GitHub-09324c?style=flat-square&logo=github&logoColor=white)](https://github.com/estevaofuzaro98/ElasticityPINN)
+[![Star on GitHub](https://img.shields.io/badge/⭐_Star_on_GitHub-09324c?style=flat-square&logo=github&logoColor=white)](https://github.com/estevaofuzaro98/ElasticityPINN)
 
 <img src="imgs/GraphicalAbstractFig.png" width="80%">
 
