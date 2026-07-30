@@ -2,7 +2,7 @@
 
 [![Read the Paper](https://img.shields.io/badge/📄_Read_the_Paper-JBSMSE-09324c?style=for-the-badge)](https://link.springer.com/article/10.1007/s40430-025-06047-1)
 [![Cite](https://img.shields.io/badge/✏️_Cite-BibTeX-1a7f5a?style=for-the-badge)](#citing-elasticitypinn)
-[![License: MIT](https://img.shields.io/badge/🔐_License-MIT-f0b400?style=for-the-badge)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/🔐_License-MIT-f0b400?style=for-the-badge)](#license)
 
 [![Python](https://img.shields.io/badge/Python-3.10.13-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.10.0-fe7625?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
@@ -83,7 +83,7 @@ The main routine was coded in `Python Notebook` and provides a step-by-step impl
 
 ### License
 
-[**ElasticityPINN**](ElasticityPINN.ipynb) is distributed under the MIT license, allowing unrestricted academic and commercial use with proper attribution. See the LICENSE file for details. All new contributions must be made under the MIT license.
+[**ElasticityPINN**](ElasticityPINN.ipynb) is distributed under the MIT license, allowing unrestricted academic and commercial use with proper attribution. See the [LICENSE](LICENSE) file for details. All new contributions must be made under the MIT license.
 
 <img src="logo/mit_license_red.png" width="15%"> 
 
