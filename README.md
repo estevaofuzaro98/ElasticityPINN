@@ -1,5 +1,13 @@
 ## ElasticityPINN
 
+[![Read the Paper](https://img.shields.io/badge/📄_Read_the_Paper-JBSMSE-09324c?style=for-the-badge)](https://link.springer.com/article/10.1007/s40430-025-06047-1)
+[![Cite](https://img.shields.io/badge/✏️_Cite-BibTeX-1a7f5a?style=for-the-badge)](#citing-elasticitypinn)
+[![License: MIT](https://img.shields.io/badge/🔐_License-MIT-f0b400?style=for-the-badge)](LICENSE)
+
+[![Python](https://img.shields.io/badge/Python-3.10.13-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.10.0-fe7625?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![Star on GitHub](https://img.shields.io/badge/⭐Star_on_GitHub-09324c?style=flat-square&logo=github&logoColor=white)](https://github.com/estevaofuzaro98/ElasticityPINN)
+
 <img src="imgs/GraphicalAbstractFig.png" width="80%">
 
 This repository serves as a comprehensive tutorial on introducing PINNs to solve elasticity problems. It demonstrates how PINNs can predict stress distribution solely based on the physical laws of elasticity theory.
